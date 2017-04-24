@@ -1,0 +1,1 @@
+The sample application to reproduce the PlaybackStateCompat related bug reported in https://issuetracker.google.com/u/2/issues/37139129
